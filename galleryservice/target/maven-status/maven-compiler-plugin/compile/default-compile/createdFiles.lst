@@ -1,0 +1,4 @@
+com\rs\springframework\service\model\Gallery.class
+com\rs\springframework\service\configuration\AppConfiguration.class
+com\rs\springframework\service\controller\HomeController.class
+com\rs\springframework\service\GalleryServiceApplication.class
